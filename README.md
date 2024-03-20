@@ -55,5 +55,5 @@ Del mismo modo, se transformó el pulso sanguíneo, en combinación de colores, 
 7.- Finalmente, ejecutar estos pasos:
 
 
-Entrar al directorio donde se encuentre todo el proyecto, y ejecutar:
+Entrar al directorio dónde se encuentre todo el proyecto, y ejecutar:
 python sub_data.py
