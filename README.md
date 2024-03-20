@@ -37,6 +37,12 @@ https://emotiv.gitbook.io/cortex-api/data-subscription/data-sample-object
 
 6.- COMUNICACIÓN Python + Arduino!
 
+Se usó la tira LED Neopixel: 
+NEOPIXEL (luces LED) + Arduino: 
+https://www.youtube.com/watch?v=OB__BBa4Ob8&feature=youtu.be
+![image](https://github.com/jokasta57/EPOC_lucesLED_arduino/assets/16157859/371a2185-1db7-4b30-b69a-131d246a45a9)
+
+
 #Tutorial: https://www.youtube.com/watch?v=fCuFDW1RoxI&ab_channel=JulianRuiz
 
 pip install pyserial  
