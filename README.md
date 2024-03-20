@@ -48,12 +48,12 @@ https://www.youtube.com/watch?v=OB__BBa4Ob8&feature=youtu.be
 pip install pyserial  
 
 
+Del mismo modo, se transformó el pulso sanguíneo, en combinación de colores, a través de este sensor, y esta la forma de conectarlo al arduino:
+![Wiring-Connecting-Pulse-Sensor-with-Arduino](https://github.com/jokasta57/EPOC_lucesLED_arduino/assets/16157859/52c218ea-b5bc-4047-be7e-d102b2a26fbe)
+
 
 7.- Finalmente, ejecutar estos pasos:
 
 
-Entrar al directorio:
-…\cortex-v2-example-master/python
-
-Ejecutar:
+Entrar al directorio donde se encuentre todo el proyecto, y ejecutar:
 python sub_data.py
